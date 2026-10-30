@@ -4,25 +4,47 @@ Hobby developer using languages like Python and C# to built applictions using da
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🤖 FAFO-Bot</h3>
-      <p>Bot Development</p>
-      <strong>Automation & Tools</strong>
-    </td>
-    <td width="33%" align="center">
-      <h3>📍 Cnr-Tracker</h3>
-      <p>Tracking Application</p>
-      <strong>Application Development</strong>
-    </td>
-    <td width="33%" align="center">
-      <h3>🗄️ Cnr-Database</h3>
-      <p>Database Project</p>
-      <strong>Data Management</strong>
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 FAFO-Bot
+
+A Discord bot project.
+
+**Tech & Development**
+
+[View Repository →](https://github.com/mattibat/FAFO-Bot)
+
+</td>
+<td width="33%" align="center">
+
+### 📍 Cnr-Tracker
+
+A tracking application.
+
+**Tracking & Management**
+
+[View Repository →](https://github.com/mattibat/Cnr-Tracker)
+
+</td>
+<td width="33%" align="center">
+
+### 🗄️ Cnr-Database
+
+A database project.
+
+**Data & Storage**
+
+[View Repository →](https://github.com/mattibat/Cnr-Database)
+
+</td>
+</tr>
 </table>
+
+</div>
 
 <!--<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mattibat&color=blue" alt="Profile views">
