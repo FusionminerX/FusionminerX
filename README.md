@@ -53,10 +53,10 @@ A database project.
 ### Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?logo=vscode&logoColor=white)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-055C99?logo=vscode&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-000000?style=flat&logo=zedindustries&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Beekeeper Studio](https://img.shields.io/badge/Beekeeper%20Studio-F6C915?style=flat&logo=beekeeperstudio&logoColor=black)
+![Beekeeper Studio](https://img.shields.io/badge/Beekeeper%20Studio-F6C915?style=flat&logo=beekeeperstudio&logoColor=white)
 
 <br/>
 
