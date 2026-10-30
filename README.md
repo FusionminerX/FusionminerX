@@ -16,8 +16,6 @@ A Discord bot project.
 
 **Tech & Development**
 
-[View Repository →](https://github.com/mattibat/FAFO-Bot)
-
 </td>
 <td width="33%" align="center">
 
@@ -27,8 +25,6 @@ A tracking application.
 
 **Tracking & Management**
 
-[View Repository →](https://github.com/mattibat/Cnr-Tracker)
-
 </td>
 <td width="33%" align="center">
 
@@ -37,8 +33,6 @@ A tracking application.
 A database project.
 
 **Data & Storage**
-
-[View Repository →](https://github.com/mattibat/Cnr-Database)
 
 </td>
 </tr>
