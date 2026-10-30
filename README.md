@@ -46,7 +46,7 @@ A database project.
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-512BD4?logo=cshrp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
